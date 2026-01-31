@@ -1,25 +1,25 @@
-💫 About Me
+# 💫 About Me:
+👋 About Me<br>
+I’m a Computer Science student who enjoys turning ideas into working software — from responsive frontends to logic-heavy console applications. I like understanding how systems work under the hood, whether it’s UI behavior, program logic, or data-driven decisions.<br><br>
 
-👋 About Me
-I’m a Computer Science student who enjoys turning ideas into working software — from responsive frontends to logic-heavy console applications. I like understanding how systems work under the hood, whether it’s UI behavior, program logic, or data-driven decisions.
+🔭 I’m currently working on<br>
+Frontend and full-stack practice projects, including e-commerce websites and console-based system applications, while also exploring AI, machine learning, and data science concepts through small experiments and learning projects.<br><br>
 
-🔭 What I’m working on
-I’m building frontend and full-stack practice projects (including e-commerce websites and console-based systems) while also exploring AI, machine learning, and data-driven applications to expand my problem-solving toolkit.
+👯 I’m looking to collaborate on<br>
+Beginner-to-intermediate level projects in web development, C++, problem-solving based applications, or early-stage AI/ML and data science projects.<br><br>
 
-👯 Open to collaboration on
-Beginner-to-intermediate projects in web development, C++, problem-solving applications, or early-stage AI/ML and data-science experiments.
+🤝 I’m looking for help with<br>
+Best practices in backend architecture, real-world project structure, scaling projects beyond tutorials, and applying AI/ML concepts to practical use cases.<br><br>
 
-🤝 Looking for guidance in
-Backend architecture best practices, real-world project structuring, scaling applications beyond tutorials, and applying AI/ML concepts to practical projects.
+🌱 I’m currently learning<br>
+Backend development (PHP & Firebase), React with TypeScript, fundamentals of AI & machine learning, data analysis basics, and improving my understanding of software design and computer architecture.<br><br>
 
-🌱 Currently learning
-Backend development (PHP & Firebase), React with TypeScript, fundamentals of AI & machine learning, and the basics of data analysis — alongside strengthening my understanding of software design and computer architecture.
+💬 Ask me about<br>
+HTML, CSS, Bootstrap, JavaScript, C++, console-based projects, frontend cloning, student-level project building, and getting started with AI/ML concepts.<br><br>
 
-💬 Ask me about
-HTML, CSS, Bootstrap, JavaScript, C++, console-based systems, frontend cloning, student-level projects, and getting started with AI/ML concepts.
+⚡ Fun fact<br>
+I enjoy building complex systems in the console just as much as designing clean, responsive UIs — and I’m increasingly curious about how data and machine learning can make software smarter.
 
-⚡ Fun fact
-I enjoy building logic-heavy console systems just as much as designing clean, responsive UIs — and I’m increasingly curious about how data and machine learning can make software smarter.
 
 
 ## 🌐 Socials:
